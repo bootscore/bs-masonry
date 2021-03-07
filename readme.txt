@@ -1,4 +1,4 @@
-=== bS Masonry ===
+=== bS5 Masonry ===
 
 Contributors: craftwerk
 

@@ -1,11 +1,11 @@
 <?php
-/*Plugin Name: bS5 Masonry
+/*Plugin Name: bS Masonry
 Plugin URI: https://bootscore.me/category/archives/masonry/
-Description: This plugin adds masonry.js to WordPress. It is only required if a *-masonry.php in bootScore 5 used and replaces the card columns of Bootstrap 4, which are no longer included in Bootstrap 5.
+Description: This plugin adds masonry.js to WordPress. It is only required if a *-masonry.php in bootScore used and replaces the card columns of Bootstrap 4, which are no longer included in Bootstrap 5.
 Version: 5.0.0.1
 Author: Bastian Kreiter
 Author URI: https://crftwrk.de
-License: GPLv3
+License: MIT License
 */
 
 

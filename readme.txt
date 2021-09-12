@@ -1,15 +1,15 @@
-=== bS5 Masonry ===
+=== bS Masonry ===
 
-Contributors: craftwerk
+Contributors: Bastian Kreiter
 
 Requires at least: 4.5
-Tested up to: 5.6.2
+Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0.1
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT License
+License https://github.com/bootscore/bs-masonry/blob/main/LICENSE
 
-This plugin adds masonry.js to WordPress. It is only required if a *-masonry.php in bootScore-5 is used and replaces the card columns of Bootstrap 4, which are no longer included in Bootstrap 5. Copyright 2021 Bastian Kreiter.
+This plugin adds masonry.js to WordPress. It is only required if a *-masonry.php in bootScore is used and replaces the card columns of Bootstrap 4, which are no longer included in Bootstrap 5. Copyright 2021 The bootScore Contributors.
 
 
 == License & Credits ==
